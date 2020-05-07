@@ -1,0 +1,2 @@
+# Distribution M Zero
+Distribution M Zero (DMZ) is an open sources project intended to facilitate redistribution of locally owned hardware, network, power and coded metadata resources. DMZ is intended to help individuals, households and companies peer their network resources and commoditize their compute, bandwidth and power resources.
